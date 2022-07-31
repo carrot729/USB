@@ -10,5 +10,5 @@ git@gitee.com:carrot729/migrate.git
 ``` 
 - github的SSH为   
 ```
-git@gitee.com:carrot729/migrate.git
+git@github.com:carrot729/migrate.git
 ``` 
