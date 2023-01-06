@@ -5,9 +5,9 @@
 2.本地推送不能超过100MB   
 - gitee的SSH为 
 ```
-git@gitee.com:carrot729/migrate.git
+git@gitee.com:carrot729/USB.git
 ``` 
 - github的SSH为   
 ```
-git@github.com:carrot729/migrate.git
+git@github.com:carrot729/USB.git
 ``` 
